@@ -1,36 +1,76 @@
-{"frames": {
-
-"meteor.png":
 {
-	"frame": {"x":0,"y":0,"w":40,"h":40},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
-	"sourceSize": {"w":40,"h":40}
-},
-"player.png":
-{
-	"frame": {"x":40,"y":0,"w":273,"h":196},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":273,"h":196},
-	"sourceSize": {"w":273,"h":196}
-},
-"tir.png":
-{
-	"frame": {"x":313,"y":0,"w":43,"h":130},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":130},
-	"sourceSize": {"w":43,"h":130}
-}},
-"meta": {
-	"app": "https://www.codeandweb.com/texturepacker",
-	"version": "1.0",
-	"image": "Sprites.png",
-	"format": "RGBA8888",
-	"size": {"w":356,"h":196},
-	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:2e8ae60c30c27e2a60226d3972be9498:b832d2f901a8f9124ce3a398a9140781:3cdb13131f548fed5fbd9288201b06ea$"
-}
+   "frames": {
+      "meteor.png": {
+         "frame": {
+            "x": 0,
+            "y": 0,
+            "w": 40,
+            "h": 40
+         },
+         "rotated": false,
+         "trimmed": false,
+         "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 40,
+            "h": 40
+         },
+         "sourceSize": {
+            "w": 40,
+            "h": 40
+         }
+      },
+      "player.png": {
+         "frame": {
+            "x": 40,
+            "y": 0,
+            "w": 273,
+            "h": 196
+         },
+         "rotated": false,
+         "trimmed": false,
+         "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 273,
+            "h": 196
+         },
+         "sourceSize": {
+            "w": 273,
+            "h": 196
+         }
+      },
+      "tir.png": {
+         "frame": {
+            "x": 313,
+            "y": 0,
+            "w": 43,
+            "h": 130
+         },
+         "rotated": false,
+         "trimmed": false,
+         "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 43,
+            "h": 130
+         },
+         "sourceSize": {
+            "w": 43,
+            "h": 130
+         }
+      }
+   },
+   "meta": {
+      "app": "https://www.codeandweb.com/texturepacker",
+      "version": "1.0",
+      "image": "Sprites.png",
+      "format": "RGBA8888",
+      "size": {
+         "w": 356,
+         "h": 196
+      },
+      "scale": "1",
+      "smartupdate": "$TexturePacker:SmartUpdate:2e8ae60c30c27e2a60226d3972be9498:b832d2f901a8f9124ce3a398a9140781:3cdb13131f548fed5fbd9288201b06ea$"
+   }
 }
